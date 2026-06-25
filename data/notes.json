@@ -1,0 +1,153 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "01-hkr-tsuru"
+    },
+    {
+      "id": 1,
+      "name": "01-kas"
+    },
+    {
+      "id": 2,
+      "name": "01-tan-akatan"
+    },
+    {
+      "id": 3,
+      "name": "02-kas"
+    },
+    {
+      "id": 4,
+      "name": "02-tan-akatan"
+    },
+    {
+      "id": 5,
+      "name": "02-tne-uguisu"
+    },
+    {
+      "id": 6,
+      "name": "03-hkr-maku"
+    },
+    {
+      "id": 7,
+      "name": "03-kas"
+    },
+    {
+      "id": 8,
+      "name": "03-tan-akatan"
+    },
+    {
+      "id": 9,
+      "name": "04-kas"
+    },
+    {
+      "id": 10,
+      "name": "04-tan-muji"
+    },
+    {
+      "id": 11,
+      "name": "04-tne-hototogisu"
+    },
+    {
+      "id": 12,
+      "name": "05-kas"
+    },
+    {
+      "id": 13,
+      "name": "05-tan-muji"
+    },
+    {
+      "id": 14,
+      "name": "05-tne-yatsuhashi"
+    },
+    {
+      "id": 15,
+      "name": "06-kas"
+    },
+    {
+      "id": 16,
+      "name": "06-tan-aotan"
+    },
+    {
+      "id": 17,
+      "name": "06-tne-cho"
+    },
+    {
+      "id": 18,
+      "name": "07-kas"
+    },
+    {
+      "id": 19,
+      "name": "07-tan-muji"
+    },
+    {
+      "id": 20,
+      "name": "07-tne-inoshishi"
+    },
+    {
+      "id": 21,
+      "name": "08-hkr-tsuki"
+    },
+    {
+      "id": 22,
+      "name": "08-kas"
+    },
+    {
+      "id": 23,
+      "name": "08-tne-kari"
+    },
+    {
+      "id": 24,
+      "name": "09-kas"
+    },
+    {
+      "id": 25,
+      "name": "09-tan-aotan"
+    },
+    {
+      "id": 26,
+      "name": "09-tne-sakazuki"
+    },
+    {
+      "id": 27,
+      "name": "10-kas"
+    },
+    {
+      "id": 28,
+      "name": "10-tan-aotan"
+    },
+    {
+      "id": 29,
+      "name": "10-tne-shika"
+    },
+    {
+      "id": 30,
+      "name": "11-hkr-michikaze"
+    },
+    {
+      "id": 31,
+      "name": "11-kas"
+    },
+    {
+      "id": 32,
+      "name": "11-tan-muji"
+    },
+    {
+      "id": 33,
+      "name": "11-tne-tsubame"
+    },
+    {
+      "id": 34,
+      "name": "12-hkr-hooh"
+    },
+    {
+      "id": 35,
+      "name": "12-kas"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
